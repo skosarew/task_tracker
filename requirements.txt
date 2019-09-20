@@ -1,2 +1,6 @@
 Django~=2.2.4
 djangorestframework~=3.10.3
+celery~=4.3.0
+pandas
+requests
+redis
